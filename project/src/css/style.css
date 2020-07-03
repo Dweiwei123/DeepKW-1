@@ -1,0 +1,17 @@
+body {
+    color: red;
+    background-color:#ccc;
+    height: 100%; 
+    margin:0;
+    padding:0
+}
+.top-section{
+    height: 95%;
+    display: flex;
+}
+.main {
+    width: 85%;
+}
+a:hover{
+    text-decoration: none;
+}
